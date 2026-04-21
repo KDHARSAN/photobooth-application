@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.photobooth.app-mergeDebugResources-67:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DHARSAN k\\.gradle\\caches\\8.13\\transforms\\57b3fe3d06fa5d7ee660b0b1fba8b18f\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

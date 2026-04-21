@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#3DDC84</color>
+    <color name="ic_launcher_foreground">#FFFFFF</color>
+    <string name="app_name">PhotoBooth</string>
+    <string name="default_web_client_id" translatable="false">407051027996-i17g5bffu8kmmfmetv1jnp8701cra1d3.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">407051027996</string>
+    <string name="google_api_key" translatable="false">AIzaSyDABZ11pr_I3wUlRxyyNvhjNwaNsHgqtc8</string>
+    <string name="google_app_id" translatable="false">1:407051027996:android:a54eb056fbe004fe7f81d9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDABZ11pr_I3wUlRxyyNvhjNwaNsHgqtc8</string>
+    <string name="google_storage_bucket" translatable="false">photo-booth-app-a7071.firebasestorage.app</string>
+    <string name="project_id" translatable="false">photo-booth-app-a7071</string>
+    <style name="Theme.PhotoBooth" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

@@ -1,0 +1,72 @@
+com.example.photobooth.app-appcompat-resources-1.6.1-0 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\026528d17aebbfc0ea9f3ba3bc1e673c\transformed\appcompat-resources-1.6.1\res
+com.example.photobooth.app-ui-text-release-1 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\0646320cd17283e441172fcea52d7920\transformed\ui-text-release\res
+com.example.photobooth.app-ui-graphics-release-2 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\0b0421d10ecfbe357e62e1611f0e617c\transformed\ui-graphics-release\res
+com.example.photobooth.app-play-services-auth-20.7.0-3 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\1a3611c5c540413b7c1f42d74562cf19\transformed\play-services-auth-20.7.0\res
+com.example.photobooth.app-sqlite-2.4.0-4 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\1c2b585b8d87fe8b16988ca0e2e09f19\transformed\sqlite-2.4.0\res
+com.example.photobooth.app-material-icons-core-release-5 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\20ead17472741017324c4b5be2f2a6dd\transformed\material-icons-core-release\res
+com.example.photobooth.app-lifecycle-process-2.6.2-6 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\21c72f9511e235e1331392dc93dab15f\transformed\lifecycle-process-2.6.2\res
+com.example.photobooth.app-core-runtime-2.2.0-7 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\23073e6f3d59cc40057bee2292848507\transformed\core-runtime-2.2.0\res
+com.example.photobooth.app-lifecycle-viewmodel-savedstate-2.6.2-8 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\24dd493345d6829360fd58d78f41d7e0\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.photobooth.app-firebase-common-20.4.2-9 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\26c20d49a0d7a6d903377219a890ece6\transformed\firebase-common-20.4.2\res
+com.example.photobooth.app-material-ripple-release-10 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\27bd379e284afde292f9c63c43bb9c3c\transformed\material-ripple-release\res
+com.example.photobooth.app-room-ktx-2.6.1-11 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\2944ddb8a41f3ff8a9984ac941fa6bfe\transformed\room-ktx-2.6.1\res
+com.example.photobooth.app-camera-extensions-1.3.0-12 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\2fc1932d81f95d5540e740dcb744d7d0\transformed\camera-extensions-1.3.0\res
+com.example.photobooth.app-camera-lifecycle-1.3.0-13 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\32880aa26cf3ae543561cddf10026c25\transformed\camera-lifecycle-1.3.0\res
+com.example.photobooth.app-lifecycle-viewmodel-2.6.2-14 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\32d9e5830bfbfa770e0db8938afa0ffb\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.photobooth.app-savedstate-1.2.1-15 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\361348fa16cce6f50c3c825e101cfc74\transformed\savedstate-1.2.1\res
+com.example.photobooth.app-lifecycle-runtime-2.6.2-16 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\37e5374d0b02b562f4706e8db856a01a\transformed\lifecycle-runtime-2.6.2\res
+com.example.photobooth.app-ui-tooling-data-release-17 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\41a07c855fad8fdba9fbf74aee222483\transformed\ui-tooling-data-release\res
+com.example.photobooth.app-emoji2-1.4.0-18 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\41d31fcd3beb3550c2b959abda3104b3\transformed\emoji2-1.4.0\res
+com.example.photobooth.app-emoji2-views-helper-1.4.0-19 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\47cd9e576b03dbf34aa865936ec9c887\transformed\emoji2-views-helper-1.4.0\res
+com.example.photobooth.app-coil-base-2.5.0-20 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\4913f73c9b9f38476f2c45ba6be19a81\transformed\coil-base-2.5.0\res
+com.example.photobooth.app-camera-core-1.3.0-21 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\54fd047d33c282278155cc7f9d0efdcb\transformed\camera-core-1.3.0\res
+com.example.photobooth.app-foundation-layout-release-22 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\578a856ff591fca5892c95196fc88682\transformed\foundation-layout-release\res
+com.example.photobooth.app-appcompat-1.6.1-23 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\57b3fe3d06fa5d7ee660b0b1fba8b18f\transformed\appcompat-1.6.1\res
+com.example.photobooth.app-ui-tooling-preview-release-24 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\58daf700935f673ab435f46937c7e20c\transformed\ui-tooling-preview-release\res
+com.example.photobooth.app-customview-poolingcontainer-1.0.0-25 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\5929444a6825b7b3a05adb0b1b84f2d7\transformed\customview-poolingcontainer-1.0.0\res
+com.example.photobooth.app-camera-view-1.3.0-26 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\5ed120307d0053c649a5d5bc2981518a\transformed\camera-view-1.3.0\res
+com.example.photobooth.app-ui-test-manifest-1.5.4-27 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\6001a14225fe497a73536b0f0398cf94\transformed\ui-test-manifest-1.5.4\res
+com.example.photobooth.app-savedstate-ktx-1.2.1-28 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\602c148d8e6a0e9d3ccb857c4dedb6f1\transformed\savedstate-ktx-1.2.1\res
+com.example.photobooth.app-lifecycle-livedata-2.6.2-29 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\69d0bec017ffa7285f140295cf27a400\transformed\lifecycle-livedata-2.6.2\res
+com.example.photobooth.app-core-1.12.0-30 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\6f3aee284b414a2513320664fc317efd\transformed\core-1.12.0\res
+com.example.photobooth.app-runtime-saveable-release-31 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\705b8eafb7685b3d32a3b24519f68e5c\transformed\runtime-saveable-release\res
+com.example.photobooth.app-lifecycle-viewmodel-ktx-2.6.2-32 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\72455168cd3d131d1d2f83e1d2dbef9f\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.photobooth.app-material-release-33 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\78699d4f8a809efb46f8d28f6cbcb2d5\transformed\material-release\res
+com.example.photobooth.app-animation-core-release-34 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\7ad795a0e821f05b83298a7a316e997c\transformed\animation-core-release\res
+com.example.photobooth.app-annotation-experimental-1.3.1-35 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\7e6a8daf9596754cdb99c726dc222761\transformed\annotation-experimental-1.3.1\res
+com.example.photobooth.app-gpuimage-2.1.0-36 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\8630e36f0ad651e6657c3371291dcd9a\transformed\gpuimage-2.1.0\res
+com.example.photobooth.app-profileinstaller-1.3.1-37 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\8b8e46ff56a789064a962d078ea76d69\transformed\profileinstaller-1.3.1\res
+com.example.photobooth.app-runtime-release-38 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\8ebadee9fe318bbf5fd3c3dc8bf6bfc8\transformed\runtime-release\res
+com.example.photobooth.app-startup-runtime-1.1.1-39 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\8fdfe2859a5d28d6b146305b428e40aa\transformed\startup-runtime-1.1.1\res
+com.example.photobooth.app-lifecycle-runtime-ktx-2.6.2-40 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\95f50821fe783aa4a4d8854e64a6c25e\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.photobooth.app-play-services-base-18.0.1-41 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\9cb0068449dce4ea4171616cfab670af\transformed\play-services-base-18.0.1\res
+com.example.photobooth.app-sqlite-framework-2.4.0-42 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\9dbac4de9b74bc24e61cb1ffc1a51fca\transformed\sqlite-framework-2.4.0\res
+com.example.photobooth.app-camera-camera2-1.3.0-43 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\a29d87f4fb63fb8c741a0eb6e03d5479\transformed\camera-camera2-1.3.0\res
+com.example.photobooth.app-lifecycle-runtime-compose-2.6.2-44 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\a738cc790b17b3e076d2add3f88199a3\transformed\lifecycle-runtime-compose-2.6.2\res
+com.example.photobooth.app-ui-tooling-release-45 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\a77b45b8aad4c257a86922719ea3c97a\transformed\ui-tooling-release\res
+com.example.photobooth.app-ui-release-46 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\a7ecf6c3e8da7c36496f4230622cc359\transformed\ui-release\res
+com.example.photobooth.app-browser-1.4.0-47 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\b3736d1c6ebcdab6b3dccc6bda917ca4\transformed\browser-1.4.0\res
+com.example.photobooth.app-animation-release-48 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\b9477d23825746a3470a4cf11ec1131c\transformed\animation-release\res
+com.example.photobooth.app-activity-1.8.0-49 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\bd70e4539eb40085572d16d98fe8791f\transformed\activity-1.8.0\res
+com.example.photobooth.app-camera-video-1.3.0-50 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\c83c36b96be94b98eacb657ecefd0728\transformed\camera-video-1.3.0\res
+com.example.photobooth.app-core-ktx-1.12.0-51 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\d02e931c7f78296716e086a5a1e72b64\transformed\core-ktx-1.12.0\res
+com.example.photobooth.app-material-icons-extended-release-52 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\d81e6b2aed1759944c0c3738df50d2a1\transformed\material-icons-extended-release\res
+com.example.photobooth.app-ui-geometry-release-53 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\d9fef89af82b40dba5d584d14a5326b4\transformed\ui-geometry-release\res
+com.example.photobooth.app-fragment-1.3.6-54 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\dd1b9ebd3c1b9601a48b6b635e88e0f1\transformed\fragment-1.3.6\res
+com.example.photobooth.app-play-services-basement-18.2.0-55 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\ea06668aa4ae69c50ebdbb7f7aaee98f\transformed\play-services-basement-18.2.0\res
+com.example.photobooth.app-room-runtime-2.6.1-56 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\ea2a057cb6132c85cedb6c884ab55da7\transformed\room-runtime-2.6.1\res
+com.example.photobooth.app-ui-util-release-57 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\ec88ed593059fce376a69e5bc733c21b\transformed\ui-util-release\res
+com.example.photobooth.app-material3-1.1.2-58 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\ee8b00a63eea246e43087afe26b75ca4\transformed\material3-1.1.2\res
+com.example.photobooth.app-lifecycle-livedata-core-2.6.2-59 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\efd87fcb1c617c0959e81af8f3876c12\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.photobooth.app-ui-unit-release-60 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\f4398c5df76562f2533eea4f134381df\transformed\ui-unit-release\res
+com.example.photobooth.app-foundation-release-61 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\f45aba8b5abc9cbf6f63504989d5ff43\transformed\foundation-release\res
+com.example.photobooth.app-activity-compose-1.8.0-62 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\f72221508cf6f07f8279702a260fbdc9\transformed\activity-compose-1.8.0\res
+com.example.photobooth.app-activity-ktx-1.8.0-63 C:\Users\DHARSAN k\.gradle\caches\8.13\transforms\fae28bc0c6f437a4c6d098d4f0f721ab\transformed\activity-ktx-1.8.0\res
+com.example.photobooth.app-res-64 D:\sample-vibecode\app\build\generated\res\processDebugGoogleServices
+com.example.photobooth.app-resValues-65 D:\sample-vibecode\app\build\generated\res\resValues\debug
+com.example.photobooth.app-updated_navigation_xml-66 D:\sample-vibecode\app\build\generated\updated_navigation_xml\debug
+com.example.photobooth.app-packageDebugResources-67 D:\sample-vibecode\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.photobooth.app-packageDebugResources-68 D:\sample-vibecode\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.photobooth.app-debug-69 D:\sample-vibecode\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.photobooth.app-debug-70 D:\sample-vibecode\app\src\debug\res
+com.example.photobooth.app-main-71 D:\sample-vibecode\app\src\main\res
