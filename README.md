@@ -42,7 +42,7 @@ To connect to these services, the project requires a valid `google-services.json
 
 1. **Clone the Repository**
    ```bash
-   git clone [YOUR_GITHUB_REPO_URL]
+   git clone https://github.com/KDHARSAN/photobooth-application
    cd photobooth-application
    ```
 2. **Add Firebase Configuration**
